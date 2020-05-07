@@ -1,4 +1,6 @@
 # overleaf_japanese
 Simple example of how to explain Japanese in overleaf
 
-Please 
+Please set up with XeLaTeX
+
+just copy packages at %日本語表示 to your project
