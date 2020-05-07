@@ -3,4 +3,4 @@ Simple example of how to explain Japanese in overleaf
 
 Please set up with XeLaTeX
 
-just copy packages at %日本語表示 to your project
+Just copy packages at %日本語表示 to your project
