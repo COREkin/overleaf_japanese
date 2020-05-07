@@ -1,5 +1,5 @@
 # overleaf_japanese
-Simple example of how to explain Japanese in overleaf
+Simple example of how to appear Japanese in overleaf
 
 Please set up with XeLaTeX
 
